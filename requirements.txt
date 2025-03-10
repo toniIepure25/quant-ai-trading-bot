@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+PyWavelets
+matplotlib
+ccxt
+requests
+websocket-client
+scikit-learn
+tensorflow
+backtrader
+arch
+stable-baselines3
+gymnasium
+gym
+optuna
