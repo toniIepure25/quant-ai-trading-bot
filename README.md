@@ -139,5 +139,3 @@ Contributions are welcome! If you’d like to improve the project, fix bugs, or 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-This README provides a comprehensive overview of the project, covering all important aspects such as data preprocessing, feature engineering, ensemble modeling, reinforcement learning, and backtesting. It’s designed to be professional and portfolio-friendly, clearly demonstrating your technical expertise in building an advanced automated trading system.
